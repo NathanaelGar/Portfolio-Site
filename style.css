@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600');
+
+.header{
+    padding: 80px;
+}
+
+body{
+    margin: 0;
+    font-family: 'Montserrat';
+}
+
+p{
+    font-size: 1em;
+    line-height: 1.6em;
+}
+
+h1{
+    font-size: 5em;
+    margin-bottom: -2%;
+}
+
+.subhead{
+    font-size: 2em;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.underline{
+    width: 100%;
+}
+
+.blackHeader{
+    width: 100%;
+    background: black;
+    color: white
+}
+
+.logo{
+    width: 100px;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+
+.navbar{
+  overflow: hidden;
+  background-color: black;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+
+.navbar a{
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 16px;
+  text-decoration: none;
+  margin-right: 60px;
+}
+
+.aboutMe{
+    width:  100%;
+}
+
+.mepic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+
+.pharagraph{
+    text-align: center;
+}
+
+.space{
+    margin-top: 10px;
+}
+
+.portfolio{
+    width: 100%;
+}
+
+.contact{
+    width: 100%;
+}
+
+.blackContainer{
+    background: black;
+    text-align: center;
+}
+
+.ig{
+    width: 5%;
+    display: inline-block;
+    padding: 10px;
+}
+
+.phone{
+    width: 5%;
+    display: inline-block;
+    padding: 10px;
+
+
+}
+
+.mail{
+    width: 7%;
+    display: inline-block;
+    padding: 10px;
+}
